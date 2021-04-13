@@ -1,0 +1,6 @@
+name: "IntionBehavior"
+api: "1.0.0"
+version: "1.0"
+main: com.intion.injetor.Loader
+author: "Intion"
+description: "Behavior Packs Loader"
